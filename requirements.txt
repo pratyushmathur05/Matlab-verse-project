@@ -1,0 +1,9 @@
+lib used 
+flask
+pandas
+numpy
+datetime
+random
+os
+matplotlib.pyplot
+matplotlib
